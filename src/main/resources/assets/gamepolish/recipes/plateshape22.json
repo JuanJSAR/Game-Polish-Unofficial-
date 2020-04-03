@@ -1,0 +1,21 @@
+{
+  "group": "plateshape",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:purpur_slab",
+      "data": 32767
+    },
+    "1": {
+      "item": "minecraft:purpur_slab",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "minecraft:purpur_block",
+    "count": 1
+  }
+}

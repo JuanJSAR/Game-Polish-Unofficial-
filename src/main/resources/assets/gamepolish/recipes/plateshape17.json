@@ -1,0 +1,21 @@
+{
+  "group": "plateshape",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone_slab",
+      "data": 3
+    },
+    "1": {
+      "item": "minecraft:stone_slab",
+      "data": 3
+    }
+  },
+  "result": {
+    "item": "minecraft:cobblestone",
+    "count": 1
+  }
+}

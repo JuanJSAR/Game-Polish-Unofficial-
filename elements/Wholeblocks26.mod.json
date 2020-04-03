@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 3,
+    "group": "wholeblocks",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.PRISMARINE_STAIRS"
+      },
+      {
+        "value": "Blocks.PRISMARINE_STAIRS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.PRISMARINE_STAIRS"
+      },
+      {
+        "value": "Blocks.PRISMARINE_STAIRS"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.PRISMARINE#0"
+    },
+    "name": "wholeblocks26",
+    "namespace": "mod"
+  }
+}
